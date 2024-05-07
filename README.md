@@ -19,12 +19,15 @@ python3 gazin.py
 O Checker irá carregar a lista de email's do arquivo lista.txt
 
 Não deixe linhas em branco no arquivo, ex:
-douglasazevedo@terra.com.br|DA2608931
 
-kayky_tricolor@terra.com.br|kaykymot1!
+    douglasazevedo@terra.com.br|DA2608931
+
+    kayky_tricolor@terra.com.br|kaykymot1!
+
 O checker não irá funcionar. Deixe formatado dessa maneira para que funcione:
 
-douglasazevedo@terra.com.br|DA2608931
-kayky_tricolor@terra.com.br|kaykymot1!
+    douglasazevedo@terra.com.br|DA2608931
+    kayky_tricolor@terra.com.br|kaykymot1!
+
 
 Obs.: O único separador no checker é o '|', não use outros em sua lista
